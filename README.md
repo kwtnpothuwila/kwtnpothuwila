@@ -32,6 +32,18 @@ I enjoy turning ideas into practical, polished applications—especially cross-p
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/Thaveesha-Nirman/CLUBIO---Club-management-system-">🎓 Clubio — Club Management System</a></h3>
+      <p>A full-stack university club platform for membership, events, and social engagement. I contributed as the social-engine lead, building posts, comments, sharing, and related frontend experiences.</p>
+      <p><code>Spring Boot</code> <code>React</code> <code>MySQL</code> <code>JWT</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/RavinduKaushan1/Group-D-BEE-Ecommerce-website">🐝 BEE E-commerce Website</a></h3>
+      <p>A collaborative e-commerce website with product browsing, authentication, shopping cart, checkout, and order-management features.</p>
+      <p><code>PHP</code> <code>MySQL</code> <code>E-commerce</code> <code>Team Project</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/kwtnpothuwila/Cricket-Runs-app">🏏 Cricket Runs App</a></h3>
       <p>A Flutter project exploring a mobile cricket experience and practical Dart development.</p>
       <p><code>Flutter</code> <code>Dart</code> <code>Mobile</code></p>
